@@ -14,12 +14,8 @@ This program is about learning predictive analytics of banking data provided by 
 
 # Results
 
-**Task 1:**<br>
-[Notebook](./Data Analysis.ipynb)<br>
-[Report](./Data Analysis Report.pdf)<br>
-**Task 2:**<br>
-[Notebook](./Predictive Analytics.ipynb)<br>
-[Report](./Predictive Analytics Report.pdf)<br>
+**Task 1:**
+**Task 2:**
 
 # Note
 On a more personal side, i took on this "virtual internship" project to refine my data analysis skills and improve my insight gathering abilities.
