@@ -6,12 +6,12 @@ This program is about learning predictive analytics of banking data provided by 
  
 **The Task 1:** Exploratory Data Analysis
 - Goal: Excecute data segmentation and visualization.
-- Update: -in progress-
+- Update: in progress
 Result: [Notebook](./Data Analysis.ipynb), [Report](./Data Analysis Report.pdf)
 
 **The Task 2:** Predictive Analytics
 - Goal: Build a regression and decision-tree prediction model.
-- Update: -in progress-
+- Update: in progress
 Result: [Notebook](./Data Analysis.ipynb), [Report](./Predictive Analytics Report.pdf)
 
 # Note
