@@ -18,4 +18,4 @@ This program is about learning predictive analytics of banking data provided by 
 - **Task 2:**
 
 # Note
-On a more personal side, i took on this "virtual internship" project to refine my data analysis skills and improve my insight gathering abilities.
+My goal for this "virtual internship" project is to refine my data analysis skills and improve my insight gathering abilities.
