@@ -1,1 +1,1 @@
-**Note:** This folder contains all analysis plots and visualizations.
+**Note:** This directory contains all analysis plots and visualizations.
