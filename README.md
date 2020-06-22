@@ -4,7 +4,7 @@ Repository for all the work and reports included in "Data Analytics" track provi
 # About
 This program is about learning predictive analytics of banking data provided by ANZ.
  
-**Task 1:** Exploratory Data Analysis
+**Task 1:** [Exploratory Data Analysis](./Data Analysis.ipynb)
 - Goal: Excecute data segmentation and visualization.
 - Update: in progress
 
