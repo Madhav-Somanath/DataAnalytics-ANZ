@@ -10,7 +10,7 @@ This program is about learning predictive analytics of banking data provided by 
 - Update: Report finalized.
 
 **Task 2:**
-[Predictive Analytics](/none.ipynb)
+[Predictive Analytics](/https://github.com/Madhav-Somanath/DataAnalytics-ANZ/blob/master/PredictiveAnalytics.ipynb)
 - Goal: Build a regression and decision-tree prediction model.
 - Update: in progress
 
