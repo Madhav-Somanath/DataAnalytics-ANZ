@@ -7,12 +7,12 @@ This program is about learning predictive analytics of banking data provided by 
 **Task 1:**
 [Exploratory Data Analysis](https://github.com/Madhav-Somanath/DataAnalytics-ANZ/blob/master/ExploratoryDataAnalysis.ipynb)
 - Goal: Excecute data segmentation and visualization.
-- Update: Report finalized.
+- Update: Visualization of datapoints done with Matplotlib, Seaborn, Plotly and WordCloud
 
 **Task 2:**
 [Predictive Analytics](/https://github.com/Madhav-Somanath/DataAnalytics-ANZ/blob/master/PredictiveAnalytics.ipynb)
 - Goal: Build a regression and decision-tree prediction model.
-- Update: in progress
+- Update: Built for supervised and unsupervised models 
 
 # Results
 
