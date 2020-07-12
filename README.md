@@ -17,7 +17,7 @@ This program is about learning predictive analytics of banking data provided by 
 # Results
 
 - **Task 1:**
-[Report: EDA](https://github.com/Madhav-Somanath/DataAnalytics-ANZ/blob/master/Reports/Report-EDA.pdf) 
+[Report for Exploratory Data Analysis](https://github.com/Madhav-Somanath/DataAnalytics-ANZ/blob/master/Reports/Report-EDA.pdf) 
 - **Task 2:**
 
 # Note
