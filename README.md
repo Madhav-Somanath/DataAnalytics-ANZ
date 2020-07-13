@@ -19,6 +19,7 @@ This program is about learning predictive analytics of banking data provided by 
 - **Task 1:**
 [Report for Exploratory Data Analysis](https://github.com/Madhav-Somanath/DataAnalytics-ANZ/blob/master/Reports/Report-EDA.pdf) 
 - **Task 2:**
+[Report for Predictive Analytics](https://github.com/Madhav-Somanath/DataAnalytics-ANZ/blob/master/Reports/Report-PA.pdf)
 
 # Note
 My goal for this "virtual internship" project is to refine my data analysis skills and improve my insight gathering abilities.
